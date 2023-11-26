@@ -10,6 +10,7 @@ const config = {
 	 kit: {
     adapter: adapter({
       maxDuration: 60,
+      split: false
     }),
   },
 }
